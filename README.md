@@ -35,3 +35,8 @@ This project is a **fun and interactive drum kit** built using **JavaScript, HTM
 │── 📄 script.js (JavaScript logic)
 
 │── 📄 README.md (Project documentation)
+
+---
+
+## 🚀 **Live Demo**
+🔗 **Try it here:** [LIVE DEMO ](file:///C:/Users/user/Documents/Drum%20kit%20js-1/index.html)
